@@ -10,6 +10,8 @@ contact:
     text: https://www.kaggle.com/chenyjade
   - icon: fa-github
     text: https://github.com/chenyjade
+interest:
+  - name: My current research interests include Knowledge Representation Learning and Knowledge Inference
 education:
   - university: Sun Yat-sen University
     duration: Aug 2015 - Jul 2019
@@ -21,6 +23,14 @@ skills:
     items: C/C++, Python
   - title: Others
     items: NLP, Machine Learning, Web Crawler, Backend Development
+awards:
+  - name: Silver Medal, Toxic Comment Classification Challenge, Kaggle, 2018
+  - name: Honorable Mention, Mathematical Contest in Modeling, 2018
+  - name: Honorable Mention, Interdisciplinary Contest in Modeling, 2017
+  - name: 3rd Prize, International Underwater Robot Competition, 2017
+  - name: Academic Competition Special Scholarship, Sun Yat-sen University, 2017
+  - name: 3rd Prize, Guangdong Contest District in China Undergraduate Mathematical Contest in Modeling, 2017
+  - name: 3rd Prize, Collegiate Programming Contest, Sun Yat-sen University, 2017
 experience:
   - title: Student Member
     duration: Oct 2017 - Now
