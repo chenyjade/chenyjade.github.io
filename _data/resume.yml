@@ -1,24 +1,20 @@
 title: Résumé
-name: YOUR NAME
-jobtitle: Your Job Title
+name: Yu Cheng
+jobtitle: Undergraduate
 contact:
   - icon: fa-envelope
-    text: youremail@example.com
+    text: chengy68@mail2.sysu.edu.cn
   - icon: fa-phone-square
-    text: your-phone-num
+    text: 13510273217
   - icon: fa-globe
-    text: your-website.com
+    text: https://www.kaggle.com/chenyjade
   - icon: fa-github
-    text: your-github
+    text: https://github.com/chenyjade
 education:
-  - university: Your First University
-    duration: Jul 2011 - Dec 2012
-    location: Consectetur adipiscing elit
-    major: Lorem ipsum dolor sit amet
-  - university: Your Second University
-    duration: Aug 2007 - Jun 2011
-    location: Ut enim ad minim veniam
-    major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  - university: Sun Yat-sen University
+    duration: Aug 2015 - Jul 2019
+    location: Guangzhou, PRC
+    major: Computer Science & Technology
 skills:
   - title: Skill Group 1
     items: Lorem, Ipsum, Dolor, Sit, Amet
