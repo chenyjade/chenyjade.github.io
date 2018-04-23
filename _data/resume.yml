@@ -35,7 +35,7 @@ projects:
     description: A comment classification challenge on kaggle, we’re challenged to build a multi-headed model that’s capable of detecting different types of of toxicity. I have built up a bi-GRU model with some tricks like ensemble and end with silver medal(153/4551) 
   - name: CTR estimation based on Hadoop
     description: Our course project, Achieved an accuracy at 88% with only text features.
-  - name: "Lebbang" APP
+  - name: Lebbang APP
     description: A platform focused on mutual help on campus, I have finished the backend with Django REST framework.
   - name: Causes and measures of fomenting medical disturbance 
     description: A research focused on medical disturbance in China, I crawled the information on Weibo and analysed those information using some NLP techniques like Topic Model   .  
