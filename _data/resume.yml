@@ -14,27 +14,22 @@ education:
   - university: Sun Yat-sen University
     duration: Aug 2015 - Jul 2019
     location: Guangzhou, PRC
-    major: Computer Science & Technology
+    major: Computer Science & Technology 
+    gpa: 3.8/4.0 (87/100)
 skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
+  - title: Programming Language
+    items: C/C++, Python, Dolor, Sit, Amet
+  - title: Others
+    items: NLP, Machine Learning, Web Crawler, Backend Development
 experience:
-  - title: Job Title 1
-    duration: Apr 2016 - Now
-    company: Your 1st, Inc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: Student Member
+    duration: Oct 2017 - Now
+    company: CIS Lab, Sun Yat-sen University.
+    description: Making research on Knowledge Representation Learning under the supervision of Prof. Rong Pan
+  - title: Student Assistant
+    duration: Oct 2015 - Now
+    company: Network and Information Technology Center, Sun Yat-sen University.
+    description: Solve problems related to school networks such as replacing switches, repairing network ports and helping people connect to the Internet
 projects:
   - name: Project Name 1
     description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -44,6 +39,6 @@ projects:
     contribution: Creator and maintainer.
 languages:
   - name: English
-    proficiency: Work proficiency
+    proficiency: Work proficiency / TOEFL 100 / CET 6
   - name: Mandarin Chinese
     proficiency: Native
