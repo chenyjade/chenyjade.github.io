@@ -32,7 +32,7 @@ experience:
     description: Solve problems related to school networks such as replacing switches, repairing network ports and helping people connect to the Internet.
 projects:
   - name: Toxic Comment Classification Challenge
-    description: A comment classification challenge on kaggle, we’re challenged to build a multi-headed model that’s capable of detecting different types of of toxicity. I have built up a bi-GRU model with some tricks like ensemble and end with silver medal(153/4551) 
+    description: A comment classification challenge on kaggle, we’re challenged to build a multi-headed model that’s capable of detecting different types of of toxicity. I have built up a bi-GRU model with some tricks like ensemble and end with silver medal (153/4551) 
   - name: CTR estimation based on Hadoop
     description: Our course project, Achieved an accuracy at 88% with only text features.
   - name: Lebbang APP
