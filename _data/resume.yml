@@ -18,7 +18,7 @@ education:
     gpa: 3.8/4.0 (87/100)
 skills:
   - title: Programming Language
-    items: C/C++, Python, Dolor, Sit, Amet
+    items: C/C++, Python
   - title: Others
     items: NLP, Machine Learning, Web Crawler, Backend Development
 experience:
@@ -29,14 +29,16 @@ experience:
   - title: Student Assistant
     duration: Oct 2015 - Now
     company: Network and Information Technology Center, Sun Yat-sen University.
-    description: Solve problems related to school networks such as replacing switches, repairing network ports and helping people connect to the Internet
+    description: Solve problems related to school networks such as replacing switches, repairing network ports and helping people connect to the Internet.
 projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
-  - name: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
+  - name: Toxic Comment Classification Challenge
+    description: A comment classification challenge on kaggle, we’re challenged to build a multi-headed model that’s capable of detecting different types of of toxicity. I have built up a bi-GRU model with some tricks like ensemble and end with silver medal(153/4551) 
+  - name: CTR estimation based on Hadoop
+    description: Our course project, Achieved an accuracy at 88% with only text features.
+  - name: "Lebbang" APP
+    description: A platform focused on mutual help on campus, I have finished the backend with Django REST framework.
+  - name: Causes and measures of fomenting medical disturbance 
+    description: A research focused on medical disturbance in China, I crawled the information on Weibo and analysed those information using some NLP techniques like Topic Model   .  
 languages:
   - name: English
     proficiency: Work proficiency / TOEFL 100 / CET 6
