@@ -10,8 +10,7 @@ contact:
     text: https://www.kaggle.com/chenyjade
   - icon: fa-github
     text: https://github.com/chenyjade
-interest:
-  - name: My current research interests include Knowledge Representation Learning and Knowledge Inference
+interest: My current research interests include Knowledge Representation Learning and Knowledge Inference
 education:
   - university: Sun Yat-sen University
     duration: Aug 2015 - Jul 2019
