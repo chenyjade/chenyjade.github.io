@@ -23,18 +23,24 @@ skills:
   - title: Others
     items: NLP, Machine Learning, Web Crawler, Backend Development
 awards:
-  - name: Silver Medal, Toxic Comment Classification Challenge, Kaggle, 2018
+  - name: Silver Medal (236/3951), TalkingData AdTracking Fraud Detection Challenge, Kaggle, 2018
+  - name: Silver Medal (153/4551), Toxic Comment Classification Challenge, Kaggle, 2018
   - name: Honorable Mention, Mathematical Contest in Modeling, 2018
+  - name: 3rd Prize of Scholarship in Sun Yat-sen University, 2018
   - name: Honorable Mention, Interdisciplinary Contest in Modeling, 2017
   - name: 3rd Prize, International Underwater Robot Competition, 2017
   - name: Academic Competition Special Scholarship, Sun Yat-sen University, 2017
   - name: 3rd Prize, Guangdong Contest District in China Undergraduate Mathematical Contest in Modeling, 2017
   - name: 3rd Prize, Collegiate Programming Contest, Sun Yat-sen University, 2017
 experience:
-  - title: Student Member
+  - title: Algorithm Engineer intern
+    duration: July 2018 - Sep 2018
+    company: Huawei Technologies Co., Ltd.
+    description: TODO
+  - title: Research Assistant
     duration: Oct 2017 - Now
     company: CIS Lab, Sun Yat-sen University.
-    description: Making research on Knowledge Representation Learning under the supervision of Prof. Rong Pan
+    description: Carried out research on Knowledge Representation Learning under the supervision of Prof. Rong Pan
   - title: Student Assistant
     duration: Oct 2015 - Now
     company: Network and Information Technology Center, Sun Yat-sen University.
