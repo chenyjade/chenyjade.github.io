@@ -23,8 +23,8 @@ skills:
   - title: Others
     items: NLP, Machine Learning, Web Crawler, Backend Development
 awards:
-  - name: Silver Medal (236/3951), TalkingData AdTracking Fraud Detection Challenge, Kaggle, 2018
-  - name: Silver Medal (153/4551), Toxic Comment Classification Challenge, Kaggle, 2018
+  - name: Silver Medal, TalkingData AdTracking Fraud Detection Challenge, Kaggle, 2018
+  - name: Silver Medal, Toxic Comment Classification Challenge, Kaggle, 2018
   - name: Honorable Mention, Mathematical Contest in Modeling, 2018
   - name: 3rd Prize of Scholarship in Sun Yat-sen University, 2018
   - name: Honorable Mention, Interdisciplinary Contest in Modeling, 2017
@@ -35,27 +35,24 @@ awards:
 experience:
   - title: Algorithm Engineer intern
     duration: July 2018 - Sep 2018
-    company: Huawei Technologies Co., Ltd.
-    description: TODO
+    company: 2012 Labs, Huawei Technologies Co., Ltd.
+    description: Participated in the development of the company's internal AI platform, explored the latest detection/tracking algorithms.
   - title: Research Assistant
     duration: Oct 2017 - Now
     company: CIS Lab, Sun Yat-sen University.
-    description: Carried out research on Knowledge Representation Learning under the supervision of Prof. Rong Pan
+    description: Carried out research on Knowledge Representation Learning under the supervision of Prof. Rong Pan.
   - title: Student Assistant
     duration: Oct 2015 - Now
     company: Network and Information Technology Center, Sun Yat-sen University.
-    description: Solve problems related to school networks such as replacing switches, repairing network ports and helping people connect to the Internet.
+    description: Solved problems related to school networks.
 projects:
+  - name: AI platform
+    description: Huawei's internal AI platform based on Hadoop, Spark, Zeppelin, etc., consists of data preparation, data exploration, model development, model deployment, etc., and I participated in the development of data preparation, including automatic data import(from HDFS into Hive, using PySpark) and data annotation. We developed an Image/Video annotaion tool based on PyQt, explored the latest detection/tracking algorithms like ECO and deeplabV3, built up a pre-labeling service(based on Flask) in order to accelarate the process of data annotation 
   - name: Toxic Comment Classification Challenge
     description: A comment classification challenge on kaggle, we’re challenged to build a multi-headed model that’s capable of detecting different types of of toxicity. I have built up a bi-GRU model with some tricks like ensemble and end with silver medal (153/4551) 
   - name: CTR estimation based on Hadoop
     description: Our course project, Achieved an accuracy at 88% with only text features.
   - name: Lebbang APP
-    description: A platform focused on mutual help on campus, I have finished the backend with Django REST framework.
+    description: A platform focused on mutual help on campus, developed the backend with Django REST framework.
   - name: Causes and measures of fomenting medical disturbance 
-    description: A research focused on medical disturbance in China, I crawled the information on Weibo and analysed those information using some NLP techniques like Topic Model   .  
-languages:
-  - name: English
-    proficiency: Work proficiency / TOEFL 100 / CET 6
-  - name: Mandarin Chinese
-    proficiency: Native
+    description: A research focused on medical disturbance in China, I crawled the information on Weibo and analysed those information using some NLP techniques like Topic Model.  
